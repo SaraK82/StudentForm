@@ -1,0 +1,44 @@
+{
+  "books": [
+    {
+      "firstname": "1Fundamentals",
+      "lastname": "1HC Verma",
+      "phn": "1Publisher",
+      "email": "asd123",
+      "age": "5",
+      "gender": "yes",
+      "programs": "1201",
+      "id": 1
+    },
+    {
+      "firstname": "Title",
+      "lastname": "Wroter",
+      "phn": "Pub",
+      "email": "we23",
+      "age": "3",
+      "gender": "notConfirmed",
+      "programs": "1231",
+      "id": 2
+    },
+    {
+      "firstname": "fsd",
+      "lastname": "dds",
+      "phn": "3424",
+      "email": "dfds",
+      "age": "56",
+      "gender": "female",
+      "programs": "partialscholarship",
+      "id": 3
+    },
+    {
+      "firstname": "fsd",
+      "lastname": "dds",
+      "phn": "3424",
+      "email": "dfds",
+      "age": "56",
+      "gender": "female",
+      "programs": "partialscholarship",
+      "id": 4
+    }
+  ]
+}
